@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9edd69dd-cee4-441f-8655-9ae6754e991d">
+  <producedTypes>
+    <managerType typeId="3dd95bb3-d9b9-4ca6-b8d9-ed85f0c61f6a" valueTypeId="1e0cd4f4-cb5b-449c-a2f6-3a1824ee235d"/>
+    <valueManagerType typeId="de9d1e10-5bc5-420b-9d10-549b5be52fb6" valueTypeId="bea25ce5-5e3b-4431-a351-57ad66389342"/>
+    <valueKeyType typeId="3e83cb47-faa5-453b-83a1-898a1457f01e" valueTypeId="caf37abb-4a59-4274-ab5f-952945ecfd84"/>
+  </producedTypes>
+  <name>PlayTextMessages</name>
+  <synonym>
+    <key>en</key>
+    <value>Play text messages</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

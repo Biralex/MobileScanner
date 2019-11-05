@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0b25876e-95ed-4e3e-af55-fb0cec646f1d">
+  <producedTypes>
+    <managerType typeId="22709e10-6bfd-4851-90a9-85f3da375372" valueTypeId="53da0f31-c7fc-4182-b9e8-3f59407ad680"/>
+    <valueManagerType typeId="d34b839d-d4b2-4368-84f2-ee9abb01dbac" valueTypeId="b5bf76f0-23c0-4175-a81b-ae44d21d6991"/>
+    <valueKeyType typeId="b8fcaa30-e81a-473d-8001-2659e00eb23b" valueTypeId="c17886ff-a521-4ca2-aa89-4a2dcdee573a"/>
+  </producedTypes>
+  <name>UseVoiceInputOfProductDescriptions</name>
+  <synonym>
+    <key>en</key>
+    <value>Use voice input of product descriptions</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

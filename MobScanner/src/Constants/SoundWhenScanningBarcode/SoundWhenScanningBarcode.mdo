@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="040cd880-878a-42b0-8d9f-0fda9abc66c6">
+  <producedTypes>
+    <managerType typeId="8a978471-a20c-41c4-a1e3-70c9b0b7f467" valueTypeId="9b186d52-0202-418d-8513-2c050e2b1d46"/>
+    <valueManagerType typeId="15df6565-c6fd-4bea-9213-616b7675c708" valueTypeId="122998c1-7443-4631-9ae6-f0463757e9d8"/>
+    <valueKeyType typeId="7c507629-e8c7-4373-80df-5b664a4d8727" valueTypeId="ef0bf752-b03b-4c27-9d5e-bae17681be29"/>
+  </producedTypes>
+  <name>SoundWhenScanningBarcode</name>
+  <synonym>
+    <key>en</key>
+    <value>Sound when scanning a barcode</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

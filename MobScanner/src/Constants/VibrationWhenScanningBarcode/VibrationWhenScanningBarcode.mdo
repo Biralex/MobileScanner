@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cc389f1e-3291-4172-a0a0-857e694321ce">
+  <producedTypes>
+    <managerType typeId="54307c5e-0714-4468-a96d-a2d1b6930947" valueTypeId="0e46dfd5-5537-459d-abb5-4b94d9f50f48"/>
+    <valueManagerType typeId="dafae4b1-57f9-4d62-a28c-f1fc54b5561a" valueTypeId="d514ecb2-0db0-4173-abf3-4516862e4a6b"/>
+    <valueKeyType typeId="d1ed365f-c49f-4ee3-90c1-dc2195ccd80f" valueTypeId="f4da9496-b26c-4a21-8007-60073dd49522"/>
+  </producedTypes>
+  <name>VibrationWhenScanningBarcode</name>
+  <synonym>
+    <key>en</key>
+    <value>Vibration when scanning barcode</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
